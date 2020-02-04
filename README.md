@@ -1,3 +1,4 @@
 # TestAtmerge
 
-first commit  
+first commit  }
+second commit
