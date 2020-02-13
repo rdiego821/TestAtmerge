@@ -9,6 +9,11 @@ minApprovals:
   COLLABORATOR: 0
 maxRequestedChanges:
   NONE: 0
+  
+mergeCommitMessage: |
+  {testmerge} (#{13})
+  {test the automerge process}
+  
 blockingLabels:
 - blocked
 
@@ -17,5 +22,3 @@ blockingLabels:
 rules:
 - minApprovals:
     OWNER: 1
-- requiredLabels:
-  - merge
