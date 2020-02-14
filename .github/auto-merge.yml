@@ -23,4 +23,4 @@ rules:
 - minApprovals:
     OWNER: 1
 - requiredLabels:
-  - ReadyToMerge    
+  - ReadyForMerge    
