@@ -10,10 +10,6 @@ minApprovals:
 maxRequestedChanges:
   NONE: 0
   
-mergeCommitMessage: |
-  {testmerge} (#{13})
-  {test the automerge process}
-
 blockingLabels:
 - blocked
 
